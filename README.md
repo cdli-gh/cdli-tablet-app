@@ -1,5 +1,7 @@
 # Revamp CDLI tablet apps (Apple and Android)
 
+The project has been move to https://github.com/cdli-gh/cdli-mobile-app
+
 CDLI tablet app offers a curated collection of images, text, and metadata of artifacts inscribed
 with the cuneiform script. Artifacts from the ancient Near East, which document three millennia of
 human activity, are made available to the users through this mobile application.
